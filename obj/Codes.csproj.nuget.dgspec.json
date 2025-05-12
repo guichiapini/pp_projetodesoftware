@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guilherme - PC\\Documents\\Codes\\Codes.csproj": {}
+    "C:\\Users\\Guilherme - PC\\Documents\\Codes\\pp_projetodesoftware\\Codes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guilherme - PC\\Documents\\Codes\\Codes.csproj": {
+    "C:\\Users\\Guilherme - PC\\Documents\\Codes\\pp_projetodesoftware\\Codes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guilherme - PC\\Documents\\Codes\\Codes.csproj",
+        "projectUniqueName": "C:\\Users\\Guilherme - PC\\Documents\\Codes\\pp_projetodesoftware\\Codes.csproj",
         "projectName": "Codes",
-        "projectPath": "C:\\Users\\Guilherme - PC\\Documents\\Codes\\Codes.csproj",
+        "projectPath": "C:\\Users\\Guilherme - PC\\Documents\\Codes\\pp_projetodesoftware\\Codes.csproj",
         "packagesPath": "C:\\Users\\Guilherme - PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guilherme - PC\\Documents\\Codes\\obj\\",
+        "outputPath": "C:\\Users\\Guilherme - PC\\Documents\\Codes\\pp_projetodesoftware\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guilherme - PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
