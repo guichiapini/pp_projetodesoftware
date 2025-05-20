@@ -38,7 +38,7 @@ namespace NextTaskWindowsForms
             ((System.ComponentModel.ISupportInitialize)dgvTasks).BeginInit();
             SuspendLayout();
             // 
-            // lblHeader
+            // titulo: NEXTASK
             // 
             lblHeader.AutoSize = true;
             lblHeader.Font = new Font("Segoe UI", 28F, FontStyle.Bold);
@@ -49,7 +49,7 @@ namespace NextTaskWindowsForms
             lblHeader.TabIndex = 0;
             lblHeader.Text = "NexTask";
             // 
-            // subtitle
+            // SUBTITULO: MENSAGEM
             // 
             subtitle.AutoSize = true;
             subtitle.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
@@ -60,7 +60,7 @@ namespace NextTaskWindowsForms
             subtitle.TabIndex = 1;
             subtitle.Text = "Gerencie suas metas diárias.";
             // 
-            // dgvTasks
+            // TABELA DE TAREFAS
             // 
             dgvTasks.AllowUserToAddRows = false;
             dgvTasks.AllowUserToResizeRows = false;
@@ -91,7 +91,7 @@ namespace NextTaskWindowsForms
             dgvTasks.Size = new Size(801, 358);
             dgvTasks.TabIndex = 4;
             // 
-            // lblID
+            // LABEL ID
             // 
             lblID.AutoSize = true;
             lblID.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
@@ -102,7 +102,7 @@ namespace NextTaskWindowsForms
             lblID.TabIndex = 5;
             lblID.Text = "ID:";
             // 
-            // txtID
+            // CAMPO ID
             // 
             txtID.BackColor = Color.FromArgb(60, 60, 60);
             txtID.BorderStyle = BorderStyle.FixedSingle;
@@ -114,7 +114,7 @@ namespace NextTaskWindowsForms
             txtID.Size = new Size(100, 25);
             txtID.TabIndex = 6;
             // 
-            // lblTitle
+            // LABEL TITULO
             // 
             lblTitle.AutoSize = true;
             lblTitle.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
@@ -125,7 +125,7 @@ namespace NextTaskWindowsForms
             lblTitle.TabIndex = 7;
             lblTitle.Text = "Título:";
             // 
-            // txtTitle
+            // CAMPO TITULO
             // 
             txtTitle.BackColor = Color.FromArgb(60, 60, 60);
             txtTitle.BorderStyle = BorderStyle.FixedSingle;
@@ -136,7 +136,7 @@ namespace NextTaskWindowsForms
             txtTitle.Size = new Size(291, 25);
             txtTitle.TabIndex = 8;
             // 
-            // lblDescription
+            // LABEL DESCRICAO
             // 
             lblDescription.AutoSize = true;
             lblDescription.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
@@ -147,7 +147,7 @@ namespace NextTaskWindowsForms
             lblDescription.TabIndex = 9;
             lblDescription.Text = "Descrição:";
             // 
-            // txtDescription
+            // CAMPO DESCRICAO
             // 
             txtDescription.BackColor = Color.FromArgb(60, 60, 60);
             txtDescription.BorderStyle = BorderStyle.FixedSingle;
@@ -158,7 +158,7 @@ namespace NextTaskWindowsForms
             txtDescription.Size = new Size(704, 25);
             txtDescription.TabIndex = 10;
             // 
-            // lblDueDate
+            // LABEL DE DATA DE VENCIMENTO
             // 
             lblDueDate.AutoSize = true;
             lblDueDate.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
@@ -169,7 +169,7 @@ namespace NextTaskWindowsForms
             lblDueDate.TabIndex = 11;
             lblDueDate.Text = "Vencimento:";
             // 
-            // dtpDueDate
+            // PICKER DE DATA DE VENCIMENTO
             // 
             dtpDueDate.CalendarForeColor = Color.Black;
             dtpDueDate.CalendarMonthBackground = Color.White;
@@ -180,7 +180,7 @@ namespace NextTaskWindowsForms
             dtpDueDate.Size = new Size(196, 25);
             dtpDueDate.TabIndex = 12;
             // 
-            // lblStatus
+            // LABEL STATUS
             // 
             lblStatus.AutoSize = true;
             lblStatus.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
@@ -191,7 +191,7 @@ namespace NextTaskWindowsForms
             lblStatus.TabIndex = 13;
             lblStatus.Text = "Status:";
             // 
-            // cmbStatus
+            // COMBOBOX STATUS
             // 
             cmbStatus.BackColor = Color.FromArgb(60, 60, 60);
             cmbStatus.DropDownStyle = ComboBoxStyle.DropDownList;
@@ -203,7 +203,7 @@ namespace NextTaskWindowsForms
             cmbStatus.Size = new Size(196, 25);
             cmbStatus.TabIndex = 14;
             // 
-            // btnNewTask
+            // BOTÃO NOVA TAREFA
             // 
             btnNewTask.BackColor = Color.FromArgb(0, 255, 198);
             btnNewTask.FlatAppearance.BorderColor = Color.Gray;
@@ -217,7 +217,7 @@ namespace NextTaskWindowsForms
             btnNewTask.Text = "Nova Tarefa";
             btnNewTask.UseVisualStyleBackColor = false;
             // 
-            // btnEditTask
+            // BOTÃO EDITAR
             // 
             btnEditTask.BackColor = Color.FromArgb(255, 223, 100);
             btnEditTask.FlatAppearance.BorderColor = Color.Gray;
@@ -231,7 +231,7 @@ namespace NextTaskWindowsForms
             btnEditTask.Text = "Editar";
             btnEditTask.UseVisualStyleBackColor = false;
             // 
-            // btnDeleteTask
+            // BOTÃO DELETAR
             // 
             btnDeleteTask.BackColor = Color.FromArgb(255, 110, 110);
             btnDeleteTask.FlatAppearance.BorderColor = Color.Gray;
@@ -245,7 +245,7 @@ namespace NextTaskWindowsForms
             btnDeleteTask.Text = "Deletar";
             btnDeleteTask.UseVisualStyleBackColor = false;
             // 
-            // MainScreen
+            // TELA PRINCIPAL
             // 
             AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
