@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NextTaskWindowsForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a99c7f800d08b05c41f02826bcfd22dcb5999eed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48b7958d7f7b8a68ec3f6b1717ade4c9dfb6e376")]
 [assembly: System.Reflection.AssemblyProductAttribute("NextTaskWindowsForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NextTaskWindowsForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

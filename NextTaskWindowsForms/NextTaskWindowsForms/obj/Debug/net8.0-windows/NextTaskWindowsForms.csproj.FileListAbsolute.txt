@@ -13,3 +13,5 @@ C:\Users\andrea\Source\Repos\pp_projetodesoftware\NextTaskWindowsForms\NextTaskW
 C:\Users\andrea\Source\Repos\pp_projetodesoftware\NextTaskWindowsForms\NextTaskWindowsForms\obj\Debug\net8.0-windows\NextTaskWindowsForms.pdb
 C:\Users\andrea\Source\Repos\pp_projetodesoftware\NextTaskWindowsForms\NextTaskWindowsForms\obj\Debug\net8.0-windows\NextTaskWindowsForms.genruntimeconfig.cache
 C:\Users\andrea\Source\Repos\pp_projetodesoftware\NextTaskWindowsForms\NextTaskWindowsForms\obj\Debug\net8.0-windows\ref\NextTaskWindowsForms.dll
+C:\Users\andrea\Source\Repos\pp_projetodesoftware\NextTaskWindowsForms\NextTaskWindowsForms\obj\Debug\net8.0-windows\NextTaskWindowsForms.MainScreen.resources
+C:\Users\andrea\Source\Repos\pp_projetodesoftware\NextTaskWindowsForms\NextTaskWindowsForms\obj\Debug\net8.0-windows\NextTaskWindowsForms.csproj.GenerateResource.cache
