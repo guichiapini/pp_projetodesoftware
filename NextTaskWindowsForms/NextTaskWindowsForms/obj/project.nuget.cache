@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qxu2n8dqEhs=",
+  "dgSpecHash": "to5GNuFe0rI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andrea\\Source\\Repos\\pp_projetodesoftware\\NextTaskWindowsForms\\NextTaskWindowsForms\\NextTaskWindowsForms.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Guilherme - PC\\Documents\\pp_projetodesoftware\\pp_projetodesoftware\\NextTaskWindowsForms\\NextTaskWindowsForms\\NextTaskWindowsForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme - PC\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.15\\microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\Guilherme - PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\Guilherme - PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.15\\microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\Guilherme - PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.15\\microsoft.netcore.app.host.win-x64.8.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
